@@ -1,7 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" width="230">
 
-## I'm Nicolas.
-## Full Stack Java Developer 👨‍💻
+## I'm Nicolas Reinaldo - Full Stack Java Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-nicolasreinaldo-blue)](https://www.linkedin.com/in/nicolas-reinaldo-544a1b153/?locale=en_US)
 [![](https://img.shields.io/badge/Gmail-nicoreinaldo06@gmail.com-red)](mail:nicoreinaldo06@gmail.com)
