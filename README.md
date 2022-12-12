@@ -18,10 +18,9 @@ const mySelf = {
             java: ["spring-boot", "hibernet", "jpa", "j2ee"],
         },
         frontEnd: {
-            typeScript: ["angular"],
-            html: ["css", "sass", "javaScript"]
+            angular: ["typeScript","javaScript","html","css", "sass"],
         },
-        mobileApp: ["android","angular"],
+        mobileApp: ["android"],
         database: ["oracle","mySql","sql","postrgre","db2"],
         servers: ["windows", "linux", "Ssh", "Sftp"],
         devOps: ["docker", "jenkins"],
