@@ -23,6 +23,7 @@ const mySelf = {
         mobileApp: ["android"],
         database: ["oracle","mySql","sql","postrgre","db2"],
         servers: ["windows", "linux", "Ssh", "Sftp"],
+        aws: ["EC2", "sqs", "Lambda", "S3"],
         devOps: ["docker", "jenkins"],
     },
     architecture: ["serverless Architecture", "microservices", "monolith", "spa"],
