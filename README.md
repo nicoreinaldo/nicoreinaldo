@@ -10,14 +10,14 @@
 
 ```javascript
 const mySelf = {
-    from: "argentina",
+    from: "argentina" + " and " + "italian",
     platforms: ["app dev", "web dev", "services"],
     idioms: ["English-B2", "Spanish-C2", "Italian-A1"],
     technologies:{
         backEnd: {
             java: ["spring-boot", "hibernet", "jpa", "j2ee"],
-            Go; ["Gin"],
-            Python: ["fastApi", "Django"],
+            Go; ["gin"],
+            Python: ["fastApi", "django"],
         },
         frontEnd: {
             angular: ["typeScript","html","css", "sass"],
@@ -26,8 +26,8 @@ const mySelf = {
         mobileApp: ["android"],
         database: ["oracle","mySql","sql","postrgre","db2"],
         servers: ["windows", "linux", "Ssh", "Sftp"],
-        aws: ["EC2", "Sqs", "Lambda", "S3", "IAM", "ECS", "RDS", "Route53"],
-        devOps: ["docker", "jenkins", "CloudFormation"],
+        aws: ["ec2", "sqs", "lambda", "s3", "iam", "ecs", "rds", "route53"],
+        devOps: ["docker", "jenkins", "cloudFormation"],
     },
     architecture: ["serverless Architecture", "microservices", "monolith", "spa"],
     currentProject: "i am backend developer in Fapro. Startup work analyzes that data for factoring",
