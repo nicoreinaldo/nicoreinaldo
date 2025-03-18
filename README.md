@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" width="230">
 
-## I am Nicolas Reinaldo - Full Stack Java Developer 👨‍💻
+## I am Nicolas Reinaldo - Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-nicolasreinaldo-blue)](https://www.linkedin.com/in/nicolas-reinaldo-544a1b153/?locale=en_US)
 [![](https://img.shields.io/badge/Gmail-nicoreinaldo06@gmail.com-red)](mail:nicoreinaldo06@gmail.com)
@@ -16,18 +16,21 @@ const mySelf = {
     technologies:{
         backEnd: {
             java: ["spring-boot", "hibernet", "jpa", "j2ee"],
+            Go,
+            Python: ["fastApi", "Django"],
         },
         frontEnd: {
-            angular: ["typeScript","javaScript","html","css", "sass"],
+            angular: ["typeScript","html","css", "sass"],
+            react: ["javaScript"]
         },
         mobileApp: ["android"],
         database: ["oracle","mySql","sql","postrgre","db2"],
         servers: ["windows", "linux", "Ssh", "Sftp"],
-        aws: ["EC2", "sqs", "Lambda", "S3"],
-        devOps: ["docker", "jenkins"],
+        aws: ["EC2", "Sqs", "Lambda", "S3", "IAM", "ECS", "RDS", "Route53"],
+        devOps: ["docker", "jenkins", "CloudFormation"],
     },
     architecture: ["serverless Architecture", "microservices", "monolith", "spa"],
-    currentProject: "i am develop web site for SanCor Salud is a health company",
+    currentProject: "i am backend developer in Fapro. Startup work analyzes that data for factoring",
     love: "travel, programing, food"
 };
 ```
