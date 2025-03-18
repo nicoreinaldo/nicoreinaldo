@@ -10,28 +10,28 @@
 
 ```javascript
 const mySelf = {
-    from: "argentina" + " and " + "italian",
-    platforms: ["app dev", "web dev", "services"],
+    from: `Argentina and Italian`,
+    platforms: ["App Dev", "Web Dev", "Services"],
     idioms: ["English-B2", "Spanish-C2", "Italian-A1"],
-    technologies:{
+    technologies: {
         backEnd: {
-            java: ["spring-boot", "hibernet", "jpa", "j2ee"],
-            Go; ["gin"],
-            Python: ["fastApi", "django"],
+            java: ["spring-boot", "hibernate", "jpa", "j2ee"],
+            Go: ["gin"],
+            Python: ["fastapi", "django"],
         },
         frontEnd: {
-            angular: ["typeScript","html","css", "sass"],
-            react: ["javaScript"]
+            angular: ["TypeScript", "HTML", "CSS", "Sass"],
+            react: ["JavaScript"]
         },
-        mobileApp: ["android"],
-        database: ["oracle","mySql","sql","postrgre","db2"],
-        servers: ["windows", "linux", "Ssh", "Sftp"],
-        aws: ["ec2", "sqs", "lambda", "s3", "iam", "ecs", "rds", "route53"],
-        devOps: ["docker", "jenkins", "cloudFormation"],
+        mobileApp: ["Android"],
+        database: ["Oracle", "MySQL", "SQL", "PostgreSQL", "DB2"],
+        servers: ["Windows", "Linux", "SSH", "SFTP"],
+        aws: ["EC2", "SQS", "Lambda", "S3", "IAM", "ECS", "RDS", "Route53"],
+        devOps: ["Docker", "Jenkins", "CloudFormation"],
     },
-    architecture: ["serverless Architecture", "microservices", "monolith", "spa"],
-    currentProject: "i am backend developer in Fapro. Startup work analyzes that data for factoring",
-    love: "travel, programing, food"
+    architecture: ["Serverless Architecture", "Microservices", "Monolith", "SPA"],
+    currentProject: "I'm a Backend Developer at Fapro, a startup that analyzes data for factoring.",
+    love: ["travel", "programming", "food"]
 };
 ```
 
