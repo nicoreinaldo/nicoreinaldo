@@ -16,7 +16,7 @@ const mySelf = {
     technologies:{
         backEnd: {
             java: ["spring-boot", "hibernet", "jpa", "j2ee"],
-            Go,
+            Go; ["Gin"],
             Python: ["fastApi", "Django"],
         },
         frontEnd: {
